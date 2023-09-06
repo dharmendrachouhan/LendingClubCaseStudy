@@ -1,48 +1,42 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club
+> The project aims to identify the driving variables for a loan lending company which leads to loan defaults.
 
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Libraries Used](#libraries-used)
+
+  
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- The Project aims to use Exploratory Data Analytics(EDA) technique to achieve its objective.
+- The Project is based on sample data shared for the largest online loan marketplace.
+- The project helps to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- ~14% Charge-off accounts
+- Top 5 states (CA, FL, NY, TX and NJ) account for ~48% of the charge-off accounts
+- Income and grade are key driving factors in identifying charge-off accounts
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+## Libraries Used
+- Numpy
+- Pandas 
+- Matplotlib 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
+
 
 
 <!-- Optional -->
